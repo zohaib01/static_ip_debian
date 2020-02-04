@@ -1,0 +1,2 @@
+sudo ifconfig eno1 10.2.16.6 netmask 255.255.255.0 up
+sudo route add default gw 10.2.16.254
